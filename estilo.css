@@ -1,0 +1,30 @@
+html{
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+body{
+    width: 1024px;
+    margin: auto;
+    text-align: center;
+}
+img{
+    float: right;
+    margin-top: 5%;
+}
+section.a1{
+    display : flex; margin-bottom: 5px; flex-direction: column;
+}
+section h1{
+    width: 400px; border:black 1px solid; margin: 5px; text-align: left;
+    height: 35px;
+}
+section h1.especial{
+    width: 400px; border:black 1px solid; margin: 5px; text-align: left;
+    height: 110px;
+}
+h2{
+    text-align: left;
+}
+hr{
+    clear: both;
+}
